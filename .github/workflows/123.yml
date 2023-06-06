@@ -1,4 +1,4 @@
-name: Test Build
+name: X86-64 Test Build
 
 on:
  workflow_dispatch:
